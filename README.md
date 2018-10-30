@@ -1,4 +1,4 @@
-## Reminders:exclamation:
+## Reminders:sparkles:
 Quick scheduling of your activities to get it done in future.
 
 ### Live Demo
